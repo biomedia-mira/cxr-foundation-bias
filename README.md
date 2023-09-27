@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper
 > Ben Glocker, Charles Jones, Mélanie Roschewitz, Stefan Winzeck  
-> [**Risk of Bias in Chest Radiography Deep Learning Foundation Models**](https://pubs.rsna.org/doi/10.1148/ryai.230060)
+> [**Risk of Bias in Chest Radiography Deep Learning Foundation Models**](https://pubs.rsna.org/doi/10.1148/ryai.230060)  
 > Radiology: Artificial Intelligence (2023). DOI: [10.1148/ryai.230060](https://pubs.rsna.org/doi/10.1148/ryai.230060)
 
 ## Dataset
